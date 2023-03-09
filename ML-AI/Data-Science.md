@@ -59,6 +59,8 @@ Below are some resources which help to learn about math for AI-ML and Data Scien
 
 > **After getting the crucial knowledge of math fundamentals, Its time get proficient with programming and other skills.**
 <br>
+
+
 ## 2. Learn Python Programming :-
 
 Learn programming languages such as Python or R, as they are commonly used in AIML and Data Science. Become proficient in data manipulation and analysis using libraries such as NumPy, Pandas, and Matplotlib.
